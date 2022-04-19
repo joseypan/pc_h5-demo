@@ -1,14 +1,13 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-    <router-link to="/qrcode">QrCode</router-link>
-    2222
-    <!-- <input id="upload" type="file" accept="image/*" class="abc" /> -->
+    <!-- <router-link to="/">Home</router-link> |
+    <router-link to="/about">About</router-link> -->
+    1111
+    <input id="upload" type="file" accept="image/*" class="abc" />
   </nav>
-  <router-view />
+  <!-- <router-view /> -->
 </template>
-s
+
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
